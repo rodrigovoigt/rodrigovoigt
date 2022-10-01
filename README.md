@@ -12,7 +12,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Voigt0&theme=elegant&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Voigt0&theme=lucent&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Voigt0&theme=juicyfresh&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ### Redes sociais:
