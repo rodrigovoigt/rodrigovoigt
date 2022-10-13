@@ -57,5 +57,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbf00&height=120&section=footer"/>
 <br>
-
-<img src="img/github-contribution-grid-snake.svg">
