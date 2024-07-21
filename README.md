@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbf00&height=180&section=header&text=Rodrigo%20Voigt%20Filho&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffbf00&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+Nome+é+Rodrigo+Voigt+Filho;Tenho+17+anos;Sou+do+Brasil,+SC;Seja+Bem+vindo!+;%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffbf00&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+Nome+é+Rodrigo+Voigt+Filho;Tenho+19+anos;Sou+do+Brasil,+SC;Seja+Bem+vindo!+;%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Voigt0&show_icons=true&count_private=true&hide_border=true&title_color=ffbf00&icon_color=ffbf00&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Voigt Filho github stats" /> 
