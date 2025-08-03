@@ -5,14 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffbf00&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+Nome+é+Rodrigo+Voigt+Filho;Tenho+19+anos;Sou+do+Brasil,+SC;Seja+Bem+vindo!+;%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Voigt0&show_icons=true&count_private=true&hide_border=true&title_color=ffbf00&icon_color=ffbf00&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Voigt Filho github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voigt0&layout=compact&hide_border=true&title_color=ffbf00&text_color=ffbf00&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rodrigovoigt&show_icons=true&count_private=true&hide_border=true&title_color=ffbf00&icon_color=ffbf00&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Voigt Filho github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigovoigt&layout=compact&hide_border=true&title_color=ffbf00&text_color=ffbf00&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Voigt0&theme=elegant&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=rodrigovoigt&theme=elegant&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Voigt0&theme=juicyfresh&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rodrigovoigt&theme=juicyfresh&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ### Redes sociais:
@@ -50,7 +50,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/Voigt0/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/rodrigovoigt/count.svg" /></p> 
 <br></div>
   
 
